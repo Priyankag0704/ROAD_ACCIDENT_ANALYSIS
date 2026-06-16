@@ -1,0 +1,1 @@
+CREATE DATABASE road_accident_analysis;
